@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DbMY86iMZ2fzL1/bZnZUqxu4/RLQ76r5PJlNjIP6Lwc=",
+  "Source": "address book API",
+  "BasePath": "_content/address book API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
